@@ -7,6 +7,9 @@ I'm Shiva Rapolu, an enthusiastic learner exploring new fields and trying to be 
 - 👨‍🎓 An undergraduate pursuing B.Tech my B.Tech degree in Electronics and Communication Engineering at IIT Guwahati.
 - 🌱 Currently learning Web development and focusing on Competitive programming. Planning to explore Artificial intelligence,Machine learning fields very soon.
 - 📫 You can reach me at: vishu.rapolu@gmail.com.
+- 🤝 Always Looking forward to collaborate
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love playing chess
 
 ---
 #### Profile Visits
