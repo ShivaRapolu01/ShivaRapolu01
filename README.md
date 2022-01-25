@@ -4,7 +4,7 @@ I'm Shiva Rapolu, an enthusiastic learner exploring new fields and trying to be 
 ---
 ## About Myself
 
-- 👨‍🎓 An undergraduate pursuing B.Tech my B.Tech degree in Electronics and Communication Engineering at IIT Guwahati.
+- 👨‍🎓 An undergraduate pursuing B.Tech in Electronics and Communication Engineering at IIT Guwahati.
 - 🌱 Currently learning Web development and focusing on Competitive programming. Planning to explore Artificial intelligence,Machine learning fields very soon.
 - 📫 You can reach me at: vishu.rapolu@gmail.com.
 - 🤝 Always Looking forward to collaborate
